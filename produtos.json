@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana",
+    "valor": 120,
+    "descricao": "Mouse"
+  },
+  {
+    "id": 2,
+    "nome": "Bia",
+    "valor": 120,
+    "descricao": "Mouse"
+  },
+  {
+    "id": 3,
+    "nome": "Julia",
+    "valor": 150,
+    "descricao": "Mouse Pad"
+  }
+]
