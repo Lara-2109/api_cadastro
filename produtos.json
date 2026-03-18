@@ -16,5 +16,11 @@
     "nome": "Julia",
     "valor": 150,
     "descricao": "Mouse Pad"
+  },
+  {
+    "id": 4,
+    "nome": "Isa",
+    "valor": 150,
+    "descricao": "Mouse Pad"
   }
 ]

@@ -49,8 +49,8 @@ app.post('/clientes', (req, res) => {
 
     res.status(201).json({ message: 'Cliente cadastrado com sucesso', cliente: novoCliente });
 
-
 });
+
 
 app.listen(port, () => {
     console.log(`Servidor rodando em http://localhost: ${port}`);
@@ -107,11 +107,13 @@ app.post('/produtos', (req, res) => {
     });
 
 });
+
 app.get('/produtos', (req, res) => {
     const produtos = lerProdutos();
     res.status(200).json(produtos);
 
 });
+
 
 app.listen(port, () => {
     console.log(`Servidor rodando em http://localhost: ${port}`);
