@@ -1,8 +1,8 @@
 [
-  {
-    "codigo": 123,
-    "nome": "yasmin",
-    "email": "yasmin.com",
-    "senha": "123456"
-  }
+    {
+        "codigo": 123,
+        "nome": "yasmin",
+        "email": "yasmin.com",
+        "senha": "123456"
+    }
 ]
